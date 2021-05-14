@@ -1,0 +1,24 @@
+{
+  "name": "typescript-webpack-nodejs-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Launcher.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ts-node src/Launcher.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robbridges/typescript-webpack-nodeJs-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robbridges/typescript-webpack-nodeJs-project/issues"
+  },
+  "homepage": "https://github.com/robbridges/typescript-webpack-nodeJs-project#readme",
+  "devDependencies": {
+    "ts-node": "^9.1.1",
+    "typescript": "^4.2.4"
+  }
+}
